@@ -300,6 +300,9 @@ please preview your site before committing, and make sure to run
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
+<p>You will ALSO need the following tools for <a href="https://datacarpentry.org/geospatial-workshop/setup.html">Geospatial data analysis</a> in R.
+ </p>
+
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
